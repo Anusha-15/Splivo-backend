@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="SplitWisePlus.API/Splivo.API.csproj" />
+  <Project Path="Splivo.Module.Core/Splivo.Module.Core.csproj" Id="78afd6e5-e2e5-436b-b769-f54e1dd7af06" />
+  <Project Path="Splivo.Module.Data/Splivo.Module.Data.csproj" Id="04186b8c-191b-40ce-9a99-aa83c9582c94" />
+  <Project Path="Splivo.Module.Service/Splivo.Module.Service.csproj" Id="467b2083-af08-4f04-969e-f76deb724198" />
+</Solution>
